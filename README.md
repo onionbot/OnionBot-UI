@@ -55,6 +55,13 @@ These datasets don’t currently exist, so the `OnionBot-UI` control panel enabl
 2. Point the server to `onionbot/portal`
 3. Start cooking! 
 
+### The OnionBot idea was developed through a research project at Imperial College London
+
+Check out the paper for technical details in much more depth!
+
+[OnionBot: A System for Collaborative Computational Cooking - ArXiv](https://arxiv.org/pdf/2011.05039.pdf)
+
+![arxiv](https://user-images.githubusercontent.com/32883278/98860117-18b3ea00-245b-11eb-976e-163721560a50.png)
 
 ### Interested in building a cooking automation robot?
 
